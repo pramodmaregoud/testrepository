@@ -1,4 +1,4 @@
 Hi, 
 
 This is the file i modified in nagaraj machine.
-I modified again this
+user needs to clone and commit their files in their system
